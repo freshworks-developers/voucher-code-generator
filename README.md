@@ -1,4 +1,4 @@
-# Voucher code generator for Freshdesk
+# Voucher code generator
 
 ## Description
 A sample app for Freshdesk which helps the agent to generate voucher codes for specific customers.
